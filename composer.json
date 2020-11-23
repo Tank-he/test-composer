@@ -1,0 +1,13 @@
+{
+    "name": "hehui/composer-test",
+    "description": "test composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tank.he",
+            "email": "tank.he@greenpacket.com.cn"
+        }
+    ],
+    "require": {}
+}
